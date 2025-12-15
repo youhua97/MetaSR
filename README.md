@@ -1,6 +1,6 @@
-# Bridging NIP and MLM: A Unified Meta-Learning Framework for Sequential Recommendation
+# Bridging NIP and MLM: A Unified Meta-Learning Framework for Sequential Recommendation (MetaSR)
 
-This repository is the official implementation of the paper "Bridging NIP and MLM: A Unified Meta-Learning Framework for Sequential Recommendation." This project implements a meta-learning-enhanced BERT-based sequential recommendation system that bridges the gap between the Next Item Prediction and Masked Language Modeling paradigms.
+This repository is the official implementation of the paper "**Bridging NIP and MLM: A Unified Meta-Learning Framework for Sequential Recommendation**." This project implements a meta-learning-enhanced BERT-based sequential recommendation system that bridges the gap between the Next Item Prediction and Masked Language Modeling paradigms.
 
 ## Project Structure
 
